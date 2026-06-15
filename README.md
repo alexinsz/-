@@ -22,4 +22,5 @@
 
 ## 联系我
 - GitHub：alexinsz
-- （可选）邮箱：xxx@xx.com
+- 邮箱：2362767240@qq.com dhy518112@gmail.com
+  
